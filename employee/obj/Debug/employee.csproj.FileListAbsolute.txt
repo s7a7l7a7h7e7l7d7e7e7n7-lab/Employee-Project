@@ -1,0 +1,226 @@
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\bin\Debug\employee.exe
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\bin\Debug\employee.pdb
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.exe
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.main.resources
+C:\Documents and Settings\dolphin\My Documents\Visual Studio 2008\Projects\employee\employee\obj\Debug\employee.enter.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee\employee\bin\Debug\employee.exe.config
+C:\Documents and Settings\dolphin\Desktop\employee\employee\bin\Debug\dilow.mdb
+C:\Documents and Settings\dolphin\Desktop\employee\employee\bin\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee\employee\bin\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.enter.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.main.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.qiab.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.anth.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.agez.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.athaf.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.fsl.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.ksm.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.gaza.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.asce.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.emploee.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.dept.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.tydept.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.aqdept.resources
+C:\Documents and Settings\dolphin\Desktop\employee\employee\obj\Debug\employee.byaq.resources
+D:\employee\employee\bin\Debug\employee.exe.config
+D:\employee\employee\obj\Debug\employee.exe
+D:\employee\employee\obj\Debug\employee.pdb
+D:\employee\employee\bin\Debug\dilow.mdb
+D:\employee\employee\bin\Debug\employee.exe
+D:\employee\employee\bin\Debug\employee.pdb
+D:\employee\employee\obj\Debug\ResolveAssemblyReference.cache
+D:\employee\employee\obj\Debug\employee.agez.resources
+D:\employee\employee\obj\Debug\employee.aqdept.resources
+D:\employee\employee\obj\Debug\employee.asce.resources
+D:\employee\employee\obj\Debug\employee.athaf.resources
+D:\employee\employee\obj\Debug\employee.byaq.resources
+D:\employee\employee\obj\Debug\employee.dept.resources
+D:\employee\employee\obj\Debug\employee.emploee.resources
+D:\employee\employee\obj\Debug\employee.enter.resources
+D:\employee\employee\obj\Debug\employee.fsl.resources
+D:\employee\employee\obj\Debug\employee.gaza.resources
+D:\employee\employee\obj\Debug\employee.ksm.resources
+D:\employee\employee\obj\Debug\employee.main.resources
+D:\employee\employee\obj\Debug\employee.Properties.Resources.resources
+D:\employee\employee\obj\Debug\employee.qiab.resources
+D:\employee\employee\obj\Debug\employee.anth.resources
+D:\employee\employee\obj\Debug\employee.tydept.resources
+D:\employee\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\bin\Debug\employee.exe.config
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\bin\Debug\dilow.mdb
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\bin\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\bin\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.agez.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.aqdept.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.asce.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.athaf.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.byaq.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.dept.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.emploee.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.enter.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.fsl.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.gaza.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.ksm.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.main.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.qiab.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.anth.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.tydept.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.fo_desp.resources
+D:\employee1\employee\bin\Debug\employee.exe.config
+D:\employee1\employee\obj\Debug\employee.exe
+D:\employee1\employee\obj\Debug\employee.pdb
+D:\employee1\employee\bin\Debug\dilow.mdb
+D:\employee1\employee\bin\Debug\employee.exe
+D:\employee1\employee\bin\Debug\employee.pdb
+D:\employee1\employee\obj\Debug\ResolveAssemblyReference.cache
+D:\employee1\employee\obj\Debug\employee.agez.resources
+D:\employee1\employee\obj\Debug\employee.aqdept.resources
+D:\employee1\employee\obj\Debug\employee.asce.resources
+D:\employee1\employee\obj\Debug\employee.athaf.resources
+D:\employee1\employee\obj\Debug\employee.byaq.resources
+D:\employee1\employee\obj\Debug\employee.dept.resources
+D:\employee1\employee\obj\Debug\employee.emploee.resources
+D:\employee1\employee\obj\Debug\employee.enter.resources
+D:\employee1\employee\obj\Debug\employee.fo_desp.resources
+D:\employee1\employee\obj\Debug\employee.fsl.resources
+D:\employee1\employee\obj\Debug\employee.gaza.resources
+D:\employee1\employee\obj\Debug\employee.ksm.resources
+D:\employee1\employee\obj\Debug\employee.main.resources
+D:\employee1\employee\obj\Debug\employee.Properties.Resources.resources
+D:\employee1\employee\obj\Debug\employee.qiab.resources
+D:\employee1\employee\obj\Debug\employee.anth.resources
+D:\employee1\employee\obj\Debug\employee.tydept.resources
+D:\employee1\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\employee.reportink.resources
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dolphin\Desktop\employee1\employee\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\bin\Debug\employee.exe.config
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.agez.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.aqdept.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.asce.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.athaf.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.byaq.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.dept.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.emploee.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.enter.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.fo_desp.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.fsl.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.gaza.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.agezrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.ksm.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.main.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.qiab.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.anth.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.reportink.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.tydept.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\bin\Debug\dilow.mdb
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\bin\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\bin\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.qiabrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.anthrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.athafrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.ksmrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee2\employee\obj\Debug\employee.here.fslrep.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\bin\Debug\employee.exe.config
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\bin\Debug\dilow.mdb
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\bin\Debug\employee.exe
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\bin\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.agez.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.aqdept.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.asce.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.athaf.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.byaq.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.dept.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.emploee.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.enter.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.fo_desp.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.fsl.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.gaza.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.ksm.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.main.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.qiab.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.anth.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+F:\الدراسه النظريه\employee program final\employee\bin\Debug\employee.exe.config
+F:\الدراسه النظريه\employee program final\employee\obj\Debug\employee.exe
+F:\الدراسه النظريه\employee program final\employee\obj\Debug\employee.pdb
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.edit_use.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.save_new.resources
+C:\Documents and Settings\dolphin\Desktop\employee program final\employee\obj\Debug\employee.tool_psw.resources
+I:\employee program final\employee\bin\Debug\employee.exe.config
+I:\employee program final\employee\obj\Debug\employee.exe
+I:\employee program final\employee\obj\Debug\employee.pdb
+G:\employee program final\employee\bin\Debug\employee.exe.config
+G:\employee program final\employee\obj\Debug\employee.exe
+G:\employee program final\employee\obj\Debug\employee.pdb
+G:\employee program final\employee\bin\Debug\dilow.mdb
+G:\employee program final\employee\bin\Debug\employee.exe
+G:\employee program final\employee\bin\Debug\employee.pdb
+G:\employee program final\employee\obj\Debug\ResolveAssemblyReference.cache
+G:\employee program final\employee\obj\Debug\employee.agez.resources
+G:\employee program final\employee\obj\Debug\employee.aqdept.resources
+G:\employee program final\employee\obj\Debug\employee.asce.resources
+G:\employee program final\employee\obj\Debug\employee.athaf.resources
+G:\employee program final\employee\obj\Debug\employee.byaq.resources
+G:\employee program final\employee\obj\Debug\employee.dept.resources
+G:\employee program final\employee\obj\Debug\employee.edit_use.resources
+G:\employee program final\employee\obj\Debug\employee.emploee.resources
+G:\employee program final\employee\obj\Debug\employee.enter.resources
+G:\employee program final\employee\obj\Debug\employee.fo_desp.resources
+G:\employee program final\employee\obj\Debug\employee.fsl.resources
+G:\employee program final\employee\obj\Debug\employee.gaza.resources
+G:\employee program final\employee\obj\Debug\employee.ksm.resources
+G:\employee program final\employee\obj\Debug\employee.main.resources
+G:\employee program final\employee\obj\Debug\employee.Properties.Resources.resources
+G:\employee program final\employee\obj\Debug\employee.qiab.resources
+G:\employee program final\employee\obj\Debug\employee.anth.resources
+G:\employee program final\employee\obj\Debug\employee.save_new.resources
+G:\employee program final\employee\obj\Debug\employee.tool_psw.resources
+G:\employee program final\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.agez.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.aqdept.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.asce.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.athaf.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.byaq.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.dept.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.edit_use.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.emploee.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.enter.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.fo_desp.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.fsl.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.gaza.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.ksm.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.main.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.qiab.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.anth.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.save_new.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.tool_psw.resources
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.csproj.GenerateResource.cache
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.exe
+D:\employee program fina\employee program fina مصدر السورس\employee\obj\Debug\employee.pdb
